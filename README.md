@@ -2,6 +2,7 @@
 
 - Node js Downloaded
 - Cypress installed with package.json file
+- Node modules folder with all third-party libraries and dependencies for Cypress
 
 2. How to run the script:
 
